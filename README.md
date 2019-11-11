@@ -1,1 +1,1 @@
-blue update B
+blue update B;
