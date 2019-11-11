@@ -6,4 +6,6 @@ blue update B;
 
 blue create C;
 
-red do D
+red do D;
+
+blue do E;
