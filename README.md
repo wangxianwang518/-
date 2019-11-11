@@ -1,1 +1,2 @@
-red update
+red update;
+red do A ;
