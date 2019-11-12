@@ -9,3 +9,5 @@ blue create C;
 red do D;
 
 blue do E;
+
+red do F;
